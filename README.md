@@ -12,6 +12,6 @@ In order to run the operating system you are going to need to follow the instruc
 4. make run
 
 # Notes
-Notice that while main branch does not contain anything, there a couple of other branches including Develop that contain all of the code, the most important of which is the ProcManagement branch, which contains most of the important code.
+Notice that while main branch does not contain anything, there a couple of other branches including Develop that together contain all of the old code, the most important of which is the ProcManagement branch, which contains most of the important old code.
 
 This is the older version of the project, we will soon finish the project and upload it in its entirety.
