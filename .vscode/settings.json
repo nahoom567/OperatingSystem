@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "type_traits": "cpp",
+        "utility": "cpp"
+    },
+    "cSpell.words": [
+        "Bootloader",
+        "CMOS",
+        "PDPI",
+        "pdpt",
+        "rodata"
+    ]
+}
