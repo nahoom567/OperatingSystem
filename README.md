@@ -54,4 +54,4 @@ This is an Operating System that specializes mainly in managing memory using pag
 - [x] virtual memory manager
 - [x] process free memory (heap)
 - [*] process managemnt - almost done
-- [ ] filing system - currently in development, will soon be added when it is fully functioning 
+- [*] filing system - in the middle of development, will soon be finished
